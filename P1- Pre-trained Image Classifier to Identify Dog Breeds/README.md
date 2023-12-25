@@ -1,6 +1,8 @@
-## Pre-trained-Image-Classifier-to-Identify-Dog-Breeds 🐶
+# Pre-trained Image Classifier to Identify Dog Breeds 🐶
 
-## Objectives 
+![](dog_breeds1.png "Dog Breeds")
+
+## Objectives ✨
 
 - Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs.  
 - Correctly classify the breed of dog, for the images that are of dogs.  
