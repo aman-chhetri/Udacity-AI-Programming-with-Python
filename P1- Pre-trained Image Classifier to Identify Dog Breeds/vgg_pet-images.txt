@@ -1,0 +1,17 @@
+Command Line Arguments:
+     dir = pet_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 40 key-value pairs.
+Below are 10 of them:
+ 1 key:            Dalmatian_04037.jpg  label:                  dalmatian
+ 2 key:        Saint_bernard_08010.jpg  label:              saint bernard
+ 3 key:        Saint_bernard_08036.jpg  label:              saint bernard
+ 4 key:                   gecko_02.jpg  label:                      gecko
+ 5 key:            Dalmatian_04017.jpg  label:                  dalmatian
+ 6 key:            Dalmatian_04068.jpg  label:                  dalmatian
+ 7 key:       Cocker_spaniel_03750.jpg  label:             cocker spaniel
+ 8 key:     Golden_retriever_05182.jpg  label:           golden retriever
+ 9 key:                     cat_01.jpg  label:                        cat
+10 key:        great_horned_owl_02.jpg  label:           great horned owl
